@@ -5,10 +5,10 @@ Simple Tool To Download Songs, Off Of YouTube
 
 To use this, you need:
 
-```asyncio
+``asyncio
 yt_dlp
 mutagen.easyid3
-colorama```
+colorama``
 
 # To Use
 
