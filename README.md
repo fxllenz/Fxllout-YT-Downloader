@@ -15,3 +15,8 @@ colorama``
 Run ``main.py``
 Enter Your URL
 Enjoy :)
+
+# Features
+
+Sorts Artists By Folder
+Supports Playlists
